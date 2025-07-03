@@ -6,5 +6,5 @@ Name of Lambda Function:** helloworld_yogeshwar
 **CloudWatch Screenshot:** (attached below)
 
 ## Screenshot:
-![CloudWatch Logs](cloudwatch_logs.png)
+![cloudwatch_1](https://github.com/user-attachments/assets/6087f5f5-c7bd-4015-8dd8-6f83e4c16618)
 
