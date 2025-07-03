@@ -2,13 +2,13 @@
 
 ## 🔹 Lambda Function 1 (Hello World)
 - **Name:** helloworld_yogeshwar
-- **API Gateway URL:** https://xyz123.execute-api.ap-south-1.amazonaws.com/hello
+- **API Gateway URL:** https://6dgrcxhdbf.execute-api.ap-south-1.amazonaws.com/default/yogesh_test
 - **Response:** {"message": "Hello from Yogeshwar!"}
 
 ## 🔹 DynamoDB + Lambda Function
 - **Lambda Name:** datahandler_yogeshwar
 - **DynamoDB Table:** tank-updates-yogeshwar
-- **GET URL Example:** https://xyz123.execute-api.ap-south-1.amazonaws.com/save?device_id=007&name=yogi
+- **GET URL Example:** https://yb9tma9nid.execute-api.ap-south-1.amazonaws.com/default/datahandler_yogeshwar?device_id=007&value=yogi
 - **Functionality:**
   - Takes `device_id` and `name` as query parameters
   - Inserts into DynamoDB
