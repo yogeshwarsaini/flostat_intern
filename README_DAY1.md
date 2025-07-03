@@ -27,4 +27,4 @@
 - Logs verified on CloudWatch
 
 ## 🔗 GitHub Link:
-https://github.com/YOUR-USERNAME/AWS_Interns/tree/main/Yogeshwar
+https://github.com/yogeshwarsaini/AWS_Interns/tree/main/Yogeshwar
